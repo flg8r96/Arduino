@@ -19,7 +19,7 @@
 #include <Ethernet.h>
 
 #include <SPI.h>  
-
+// one line changed
 //byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; 90-A2-DA-00-EE-58
 //byte ip[] = { 192, 168, 9, 177 };
 //byte server[] = { 192, 168, 9, 6 }; // Mail server address  MODIFY THIS FOR THE TARGET DOMAIN's MAIL SERVER
